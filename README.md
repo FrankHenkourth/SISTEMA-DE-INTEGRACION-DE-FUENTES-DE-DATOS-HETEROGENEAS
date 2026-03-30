@@ -248,5 +248,5 @@ Este proyecto es parte de un Trabajo de Diploma y su titularidad corresponde a l
 
 ---
 
-*La Habana, diciembre de 2024*  
+*La Habana, marzo de 2026*  
 *Año 68 del Triunfo de la Revolución*
