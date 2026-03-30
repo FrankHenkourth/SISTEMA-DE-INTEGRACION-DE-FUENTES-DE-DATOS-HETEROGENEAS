@@ -10,6 +10,8 @@
 
 ---
 
+![Logo del Proyecto](logo.png)
+
 ## 📋 Resumen
 
 Este sistema permite integrar y consolidar de forma eficiente fuentes de datos heterogéneas provenientes de distintas fuentes institucionales utilizando tecnologías libres. La solución facilita la ingestión, transformación y almacenamiento de información proveniente de archivos CSV, hojas de cálculo y bases de datos relacionales, garantizando la consistencia y trazabilidad de los datos integrados.
